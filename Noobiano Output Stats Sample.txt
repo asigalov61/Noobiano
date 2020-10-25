@@ -1,0 +1,118 @@
+{0.0} <music21.stream.Part 0x7f576cf4e7f0>
+    {0.0} <music21.instrument.Vocalist Voice>
+    {0.0} <music21.instrument.Vocalist Voice>
+    {0.0} <music21.note.Note E>
+    {0.25} <music21.note.Note G>
+    {0.5} <music21.note.Note C#>
+    {0.75} <music21.note.Note E>
+    {1.5} <music21.note.Note D>
+    {3.75} <music21.note.Note D>
+    {6.25} <music21.note.Note B->
+    {6.75} <music21.note.Note F>
+    {7.0} <music21.note.Note E>
+    {8.25} <music21.note.Note D>
+    {11.75} <music21.note.Note C>
+    {12.75} <music21.note.Note E>
+    {13.75} <music21.note.Note E>
+    {14.75} <music21.note.Note F>
+    {15.25} <music21.note.Note F>
+    {16.75} <music21.note.Note F>
+    {17.25} <music21.note.Note F>
+    {18.75} <music21.note.Note F>
+    {20.5} <music21.note.Note F>
+    {21.0} <music21.note.Note A>
+    {26.0} <music21.note.Note C#>
+    {27.25} <music21.note.Note C>
+    {28.25} <music21.note.Note C>
+    {29.75} <music21.note.Note E>
+    {33.25} <music21.note.Note D>
+    {34.25} <music21.note.Note G>
+    {36.0} <music21.note.Note F>
+    {37.75} <music21.note.Note C>
+    {42.5} <music21.note.Note C>
+    {43.5} <music21.note.Note D>
+    {44.75} <music21.note.Note C>
+    {45.25} <music21.note.Note D>
+    {46.75} <music21.note.Note C>
+    {47.25} <music21.note.Note A>
+    {51.75} <music21.note.Note E>
+    {53.0} <music21.note.Note E>
+    {54.0} <music21.note.Note C>
+    {54.5} <music21.note.Note B->
+    {59.75} <music21.note.Note C>
+    {61.5} <music21.note.Note C>
+    {62.5} <music21.note.Note D>
+    {64.0} <music21.note.Note C>
+    {67.75} <music21.note.Note D>
+    {68.75} <music21.note.Note E>
+    {69.25} <music21.note.Note E>
+    {70.75} <music21.note.Note D>
+    {72.25} <music21.note.Note C>
+    {72.75} <music21.note.Note A>
+    {77.75} <music21.note.Note G>
+    {78.75} <music21.note.Note C>
+    {79.75} <music21.note.Note E>
+    {81.25} <music21.note.Note C#>
+    {81.75} <music21.note.Note C>
+    {86.0} <music21.note.Note A>
+    {87.0} <music21.note.Note F>
+    {88.0} <music21.note.Note F>
+    {89.0} <music21.note.Note F>
+    {89.5} <music21.note.Note F>
+    {90.5} <music21.note.Note F>
+    {91.5} <music21.note.Note F>
+    {92.5} <music21.note.Note F>
+    {93.0} <music21.note.Note F>
+    {95.5} <music21.note.Note F>
+    {96.0} <music21.note.Note F>
+    {97.5} <music21.note.Note F>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠼⠙⠲⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠼⠁⠀⠈⠈⠯⠠⠠⠠⠷⠩⠽⠐⠋⠄⠜⠦⠵⠈⠉⠀⠜⠦⠣⠚⠐⠿⠫⠈⠉⠀⠯⠕⠄⠄⠽⠈⠉
+⠀⠀⠐⠙⠄⠫⠫⠛⠛⠄⠈⠉⠀⠛⠄⠛⠻⠄⠜⠦⠀⠛⠛⠸⠎⠄⠈⠉⠀⠎⠜⠦⠡⠙⠄⠈⠉
+⠀⠀⠐⠽⠹⠄⠜⠦⠀⠜⠦⠐⠱⠳⠄⠄⠀⠻⠄⠄⠜⠦⠀⠜⠦⠹⠑⠈⠉⠀⠑⠄⠙⠱⠄⠙⠊⠄⠈⠉
+⠀⠀⠸⠎⠄⠄⠄⠐⠯⠈⠉⠀⠫⠫⠙⠣⠺⠄⠈⠉⠀⠞⠄⠄⠄⠽⠈⠉⠀⠹⠄⠹⠱⠄
+⠀⠀⠐⠝⠄⠄⠄⠵⠈⠉⠀⠑⠄⠋⠫⠄⠜⠦⠀⠵⠙⠜⠦⠀⠪⠄⠄⠳⠐⠹⠯⠈⠉⠀⠜⠦⠩⠙⠜⠦
+⠀⠀⠐⠝⠐⠪⠻⠀⠻⠛⠻⠻⠛⠈⠉⠀⠛⠛⠜⠦⠛⠀⠻⠄⠜⠦⠀⠜⠦⠣⠅
+[ 16 127 121  64 129 129  62 129 129 129 129 129 129 129 129  62 129 129
+ 129 129 129 129 129 129 129  58 129  65  64 129 129 129 129  62 129 129
+ 129 129 129 129 129 129 129 129 129 129 129  60 129 129 129  64 129 129
+ 129  64 129 129 129  65 129  65 129 129 129 129 129  65 129  65 129 129
+ 129 129 129  65 129 129 129 129 129 129  65 129  57 129 129 129 129 129
+ 129 129 129 129 129 129 129 129 129 129 129 129 129 129  61 129 129 129
+ 129  60 129 129 129  60 129 129 129 129 129  52 129 129 129 129 129 129
+ 129 129 129 129 129 129 129  62 129 129 129  67 129 129 129 129 129 129
+  65 129 129 129 129 129 129  60 129 129 129 129 129 129 129 129 129 129
+ 129 129 129 129 129 129 129 129  60 129 129 129  62 129 129 129 129  60
+ 129  62 129 129 129 129 129  60 129  57 129 129 129 129 129 129 129 129
+ 129 129 129 129 129 129 129 129 129  64 129 129 129 129  64 129 129 129
+  60 129  58 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129
+ 129 129 129 129 129  60 129 129 129 129 129 129  60 129 129 129  62 129
+ 129 129 129 129  60 129 129 129 129 129 129 129 129 129 129 129 129 129
+ 129  62 129 129 129  64 129  64 129 129 129 129 129  62 129 129 129 129
+ 129  60 129  57 129 129 129 129 129 129 129 129 129 129 129 129 129 129
+ 129 129 129 129 129  55 129 129 129  60 129 129 129  64 129 129 129 129
+ 129  61 129  60 129 129 129 129 129 129 129 129 129 129 129 129 129 129
+ 129 129  69 129 129 129  65 129 129 129  65 129 129 129  65 129  65 129
+ 129 129  65 129 129 129  65 129 129 129  65 129  65 129 129 129 129 129
+ 129 129 129 129  65 129  65 129 129 129 129 129  65 129 129 129 129 129
+ 129 129 129 129 129 129 129 129 129 129 129 129 129 128]
+segment.py: WARNING: Voice cannot be transcribed to braille.
+segment.py: WARNING: Voice cannot be transcribed to braille.
+segment.py: WARNING: Incorrect beaming: number of start notes != to number of stop notes.
+segment.py: WARNING: Incorrect beaming: number of start notes != to number of stop notes.
+basic.py: WARNING: Duration <music21.duration.Duration 2.25> of note <music21.note.Note D> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 2.25> of note <music21.note.Note D> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 1.25> of note <music21.note.Note F> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 1.25> of note <music21.note.Note C#> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 2.25> of note <music21.note.Note E> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 2.25> of note <music21.note.Note E> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 1.25> of note <music21.note.Note E> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 2.25> of note <music21.note.Note C> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 2.5> of note <music21.note.Note C> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 1.25> of note <music21.note.Note D> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 3.25> of note <music21.note.Note A> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 1.25> of note <music21.note.Note E> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 2.25> of note <music21.note.Note C> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 2.5> of note <music21.note.Note F> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 2.5> of note <music21.note.Note F> cannot be transcribed to braille.
+basic.py: WARNING: Duration <music21.duration.Duration 2.25> of note <music21.note.Note F> cannot be transcribed to braille.
